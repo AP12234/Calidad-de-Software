@@ -5,3 +5,4 @@ print ("El número aleatorio es: ", numero)
 
 
 print("No hago nada y pido aumento")
+print("otra línea de código inútil")
